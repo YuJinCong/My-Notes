@@ -1,14 +1,4 @@
-[JDK 8](https://docs.oracle.com/javase/8/docs/api/index.html)  ｜  [JDK 11](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)  ｜  [JDK 6](https://docs.oracle.com/javase/6/docs/api/)    
-
-[GUID Online](https://www.guidgen.com)  ｜  [码工具](https://www.matools.com)  ｜  [奇Q工具](https://qqe2.com)   
-
-[LINUX命令搜索](https://jaywcjlove.gitee.io/linux-command/)    
-
-[海外AppleID](https://lgappleid.me)    
-
-[数据结构和算法动态可视化](https://visualgo.net/zh)  ｜  [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-
-[BootCDN](https://www.bootcdn.cn)
+[JDK 8](https://docs.oracle.com/javase/8/docs/api/index.html)  ｜  [JDK 11](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)  ｜  [JDK 6](https://docs.oracle.com/javase/6/docs/api/)  ｜  [GUID Online](https://www.guidgen.com)  ｜  [码工具](https://www.matools.com)  ｜  [奇Q工具](https://qqe2.com)  ｜  [LINUX命令搜索](https://jaywcjlove.gitee.io/linux-command/)  ｜  [海外AppleID](https://lgappleid.me)  ｜  [数据结构和算法动态可视化](https://visualgo.net/zh)  ｜  [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)  ｜  [BootCDN](https://www.bootcdn.cn)
 
 ## 后端
 
@@ -29,7 +19,7 @@
 
 ### JVM
 
-  - [JVM 介绍](后端/JVM/JVM 介绍.md)
+  - [JVM介绍](后端/JVM/JVM介绍.md)
   - [内存空间](后端/JVM/内存空间.md)
   - [垃圾回收](后端/JVM/垃圾回收.md)
   - [指令重排序](后端/JVM/指令重排序.md)
