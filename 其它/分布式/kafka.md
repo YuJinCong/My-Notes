@@ -71,7 +71,7 @@ Kafka 消息按照 `Topic` 进行数据的组织和隔离，Producer/Consumer �
 
 在服务器端，Topic 则按 `Patition` 进行分区，同一个 Topic 的 Partition 会散落在多个 Broker 上，存储为一个阻塞队列，从而达到了数据分布式存储的目的。Producer 可以指定发送的 Partition 以保证消息有序到达。
 
-![Kafka](Kafka.jpeg)
+![Kafka](kafka.jpeg)
 
 每个 `Consumer Group` 都会消费一个 Topic 全量的数据，彼此之间互不干扰。同一个 Consumer Group 下的 Consumer 只能消费到其中一部分 Partition ，通过多个 Consumer 可以达到并行消费的目的。Partition 数量推荐设为 Consumer 数量的整数倍，便于均分。
 
