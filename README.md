@@ -39,7 +39,6 @@
   - [I/O](后端/IO/IO.md)
   - [NIO](后端/IO/NIO.md)
   - [Net](后端/IO/Net.md)
-  - [Netty](后端/IO/Netty.md)
 
 #### Java EE
 
@@ -70,38 +69,33 @@
 
 #### 页面元素
 
-  - [HTML](前端/页面元素/html.md)
+  - [HTML](前端/html.md)
 
 #### 页面样式
 
-  - [CSS](前端/页面样式/css.md)
+  - [CSS](前端/css.md)
 
 #### 页面脚本
 
-  - [JavaScript](前端/页面脚本/javascript.md)
+  - [JavaScript](前端/javascript.md)
 
 #### 环境
 
-  - [Node.js](前端/环境/nodejs.md)
+  - [Node.js](前端/nodejs.md)
 
 #### 框架
 
-  - [Vue2](前端/框架/vue2.md)
-  - [Vue3](前端/框架/vue3.md)
+  - [Vue](前端/vue.md)
 
 ### 数据库
 
 #### 关系型数据库
 
-  - [MySQL](数据库/关系型数据库/MySQL.md)
+  - [MySQL](数据库/MySQL.md)
 
 #### 缓存数据库
 
-  - [Redis](数据库/缓存数据库/Redis.md)
-
-#### 时序数据库
-
-  - [Druid](数据库/时序数据库/Druid.md)
+  - [Redis](数据库/Redis.md)
 
 ### 其它
 
@@ -130,14 +124,14 @@
 
 #### 操作系统
 
-  - [Linux](其他/操作系统/linux.md)
+  - [Linux](其它/操作系统/linux.md)
 
 #### 计算机网络
 
-  - [应用层](其他/计算机网络/应用层.md)
-  - [传输层](其他/计算机网络/传输层.md)
-  - [网络层](其他/计算机网络/网络层.md)
-  - [网络接口层](其他/计算机网络/网络接口层.md)
+  - [应用层](其它/计算机网络/应用层.md)
+  - [传输层](其它/计算机网络/传输层.md)
+  - [网络层](其它/计算机网络/网络层.md)
+  - [网络接口层](其它/计算机网络/网络接口层.md)
 
 ### 读书
 
